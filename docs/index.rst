@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+Dataverse Guides on Read the Docs Experiment
+============================================
+
+For the actual guides, please visit http://guides.dataverse.org
 
 Contents:
 
